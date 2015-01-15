@@ -1,0 +1,25 @@
+{
+    "name": "aoe/symfony2-coding-standard",
+    "description": "Symfony2 PHP CodeSniffer Coding Standard",
+    "keywords": ["phpcs", "CodeSniffer", "Symfony2", "Standard", "AOE"],
+    "require": {
+        "squizlabs/php_codesniffer": "~2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Symfony2-phpcs-authors",
+            "email": "Symfony2-coding-standard@escapestudios.github.com",
+            "role": "original authors"
+        },
+        {
+            "name": "Steffen Ritter, AOE GmbH",
+            "email": "steffen.ritter@aoe.com",
+            "role": "Maintainer of the fork"
+        }
+    ],
+    "support" : {
+        "source": "https://github.com/AOEpeople/Symfony2-coding-standard",
+        "issues": "https://github.com/AOEpeople/Symfony2-coding-standard/issues"
+    }
+}
