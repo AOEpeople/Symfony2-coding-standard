@@ -21,5 +21,10 @@
     "support" : {
         "source": "https://github.com/AOEpeople/Symfony2-coding-standard",
         "issues": "https://github.com/AOEpeople/Symfony2-coding-standard/issues"
+    },
+    "autoload": {
+        "classmap": [
+            "Sniffs/"
+        ]
     }
 }
