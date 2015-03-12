@@ -92,8 +92,6 @@
     <rule ref="Zend.Files.ClosingTag">
         <exclude-pattern>*\.(?!phtml$)</exclude-pattern>
     </rule>
-    <!-- exclude sub vendor folder -->
-    <exclude-pattern>*/vendor/*</exclude-pattern>
     <!-- Reports errors if the same class or interface name is used in multiple files. -->
     <rule ref="Generic.Classes.DuplicateClassName"/>
     <!-- Related to this - only one Class or Interface Declaration per File -->
